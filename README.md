@@ -45,7 +45,7 @@ Both <code style="color:var(--single-code)">class</code> and <code style="color:
 <ul>
 <li><code style="color:var(--single-code)"><b>class</b></code> - The class attribute is used to specify one or more HTML element. <code style="color:var(--single-code)">class</code> name is selected in CSS by using <b>.</b> (dot)
 </li>
-<li><code style="color:var(--single-code)"><b>id</b></code> - The id attribute is used to single a single unique HTML element. <code style="color:var(--single-code)">id</code> name is selected in CSS by using <b>#</b> (hash)
+<li><code style="color:var(--single-code)"><b>id</b></code> - The id attribute is used to select a single unique HTML element. <code style="color:var(--single-code)">id</code> name is selected in CSS by using <b>#</b> (hash)
 </li>
 </ul>
 The only difference between the two is that there can be only 1 unique <code style="color:var(--single-code)">id</code> , while <code style="color:var(--single-code)">class</code> can be applied to multiple elements.
